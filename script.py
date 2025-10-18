@@ -15,7 +15,7 @@ import dateutil.parser
 rss_urls = ["https://www.waze.com/forum/app.php/feed/forum/1250", "https://www.waze.com/forum/app.php/feed/forum/1255"]
 
 # Token pour l'authentification sur Discord
-token = "MTEyNjQxMjkwMTMxNDQ3NDEwNQ.GTzWEd.g967c0D-Aro_yTYCQmWxrgs4JJ4xRuQniIOc1g"
+token = ""
 
 # Initialisation de la base de données des fils de discussion (threads)
 threads_db = {}
